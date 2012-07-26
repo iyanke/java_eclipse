@@ -36,7 +36,7 @@ public void testSumma() {
 public void testDifference() {
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
-       Assert.assertEquals("Result", 17, tester.difference(12, 5));
+       Assert.assertEquals("Result", 18, tester.difference(12, 5));
 
 }
 public void testDifference2() {
