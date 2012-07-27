@@ -3,7 +3,7 @@ package test.java.pk1;
 
 import main.java.pk1.HelloPease;
 import junit.framework.*;
-//fffff
+//ffffff
 //dfdfdf
 public class  TestHelloPease extends TestCase {
   public void testSimpleMessage() {
