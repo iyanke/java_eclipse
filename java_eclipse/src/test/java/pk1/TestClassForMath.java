@@ -18,7 +18,7 @@ public class TestClassForMath extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 30, tester.multiply(6, 5));
+               assertEquals("Result", 30, tester.multiply(6, 5));
 
         }
         public void testMultiply2() {
@@ -26,7 +26,7 @@ public class TestClassForMath extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 30, tester.multiply2(6, 5));
+               assertEquals("Result", 30, tester.multiply2(6, 5));
        }
 ////t
 
@@ -78,7 +78,7 @@ public void testDoubleSumma() {
 }
 public void testTripleSumma()
 {ClassForMath test1= new ClassForMath();
-Assert.assertEquals("Result", 12, test1.triple_summa(2,2) );
+ssertEquals("Result", 12, test1.triple_summa(2,2) );
 	}
 
 
