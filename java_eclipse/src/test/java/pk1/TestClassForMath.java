@@ -40,18 +40,15 @@ public void failingtestSumma() {
 //dddddd
 }
 
-@Ignore
-@Test
+@Ignore @Test  public void testDifference() {
 
-public void testDifference() {
+
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
        Assert.assertEquals("Result", 17, tester.difference(12, 5));
 
 }
 
-@Ignore
-@Test
 
 public void testDifference2() {
 //sdfsfdfsdfdfsdf
