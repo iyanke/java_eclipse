@@ -25,6 +25,9 @@ public class TestClassForMath extends TestCase {
        }
 ////t
 
+@Ignore
+@Test
+
 public void testSumma() {
 	
     ClassForMath tester = new ClassForMath();
