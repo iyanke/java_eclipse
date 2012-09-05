@@ -2,8 +2,13 @@ package test.java.pk1;
 
 import main.java.pk1.ClassForMath;
 import junit.framework.*;
-//fff\
-////yyyyy
+
+import org.junit.Ignore;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+
+
 
 public class TestClassForMath extends TestCase {
 
