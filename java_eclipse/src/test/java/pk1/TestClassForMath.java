@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
 
 
 
-public class TestClassForMath extends TestCase {
+public class TestClassForMath {
 
         public void testMultiply() {
             ClassForMath tester = new ClassForMath();
