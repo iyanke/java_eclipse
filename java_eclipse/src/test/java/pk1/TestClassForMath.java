@@ -1,7 +1,7 @@
 package test.java.pk1;
 
 import main.java.pk1.ClassForMath;
-import junit.framework.*;
+//import junit.framework.*;
 
 import org.junit.Ignore;
 import org.junit.Test;
@@ -56,6 +56,7 @@ public void testDifference2() {
 	//dfkdkfjskfjsldkfjslkdjflskjflksdjfsf
     ClassForMath tester = new ClassForMath();
        Assert.assertEquals("Result", 7, tester.difference(12, 5));
+assertEquals("Result", 50, tester.multiply(10, 5));
 
 }
 public void testDifference1() {
