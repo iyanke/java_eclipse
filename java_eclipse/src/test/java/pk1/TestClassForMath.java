@@ -78,7 +78,7 @@ public void testDoubleSumma() {
 }
 public void testTripleSumma()
 {ClassForMath test1= new ClassForMath();
-ssertEquals("Result", 12, test1.triple_summa(2,2) );
+assertEquals("Result", 12, test1.triple_summa(2,2) );
 	}
 
 
