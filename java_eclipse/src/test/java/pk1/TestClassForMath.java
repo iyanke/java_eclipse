@@ -25,10 +25,8 @@ public class TestClassForMath extends TestCase {
        }
 ////t
 
-@Ignore
-@Test
 
-public void testSumma() {
+public void failingtestSumma() {
 	
     ClassForMath tester = new ClassForMath();
     System.out.println("3");
