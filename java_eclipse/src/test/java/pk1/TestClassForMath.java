@@ -12,8 +12,7 @@ import static org.junit.Assert.assertEquals;
 
 
 public class TestClassForMath {
-
-@Ignore @Test       public void testMultiply() {
+      public void testMultiply() {
             ClassForMath tester = new ClassForMath();
             System.out.println("1");
             System.out.print("2");
