@@ -22,7 +22,7 @@ import static org.junit.Assert.assertEquals;
 //fff\
 ////yyyyy
 
-public class TestClassForMath4 {
+public class TestClassForMath11 {
 
         public void testMultiply() {
             ClassForMath tester = new ClassForMath();
