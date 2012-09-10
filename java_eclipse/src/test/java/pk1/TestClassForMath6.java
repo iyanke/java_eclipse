@@ -83,7 +83,7 @@ assertEquals("Result", 12, test1.triple_summa(2,2) );
 	}
 
 
-}
+
 @Test @Ignore public void testTripleSumma2()
 {ClassForMath test1= new ClassForMath();
 assertEquals("Result", 12, test1.triple_summa(2,2) );
@@ -95,4 +95,4 @@ assertEquals("Result", 12, test1.triple_summa(2,2) );
 assertEquals("Result", 12, test1.triple_summa(2,2) );
 	}
 
-
+}
