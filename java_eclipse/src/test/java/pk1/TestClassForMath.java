@@ -22,7 +22,7 @@ import static org.junit.Assert.assertEquals;
 //fff\
 ////yyyyy
 
-public class TestClassForMath extends TestCase {
+public class TestClassForMath {
 
         public void testMultiply() {
             ClassForMath tester = new ClassForMath();
@@ -30,7 +30,7 @@ public class TestClassForMath extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 30, tester.multiply(6, 5));
+               assertEquals("Result", 30, tester.multiply(6, 5));
 
         }
 @Test @Ignore public void testMultiply2() {
@@ -47,13 +47,13 @@ public void testSumma() {
     ClassForMath tester = new ClassForMath();
     System.out.println("3");
     
-       Assert.assertEquals("Result", 17, tester.summa(12, 5));
+       assertEquals("Result", 17, tester.summa(12, 5));
 //dddddd
 }
 public void testDifference() {
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
-       Assert.assertEquals("Result", 7, tester.difference(12, 5));
+       assertEquals("Result", 7, tester.difference(12, 5));
 
 }
 public void testDifference2() {
@@ -61,29 +61,29 @@ public void testDifference2() {
 	//sdfsdfsdfsdfsdf
 	//dfkdkfjskfjsldkfjslkdjflskjflksdjfsf
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 7, tester.difference(12, 5));
+       assertEquals("Result", 7, tester.difference(12, 5));
 
 }
 public void testDifference1() {
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 7, tester.difference(12, 5));
+       assertEquals("Result", 7, tester.difference(12, 5));
 
 }
 public void testDivision() {
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 8, tester.division(8,1));}
+       assertEquals("Result", 8, tester.division(8,1));}
 
 public void testDoubleSumma() {
 	//dfdfdfsfsdfsfdsfsf
 	//dfsfdfsdfdfsdfsff
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 34, tester.double_summa(12, 5));
+       assertEquals("Result", 34, tester.double_summa(12, 5));
        //zzxzxzxzxzxzxzxzxzxzx
        
 }
 public void testTripleSumma()
 {ClassForMath test1= new ClassForMath();
-Assert.assertEquals("Result", 12, test1.triple_summa(2,2) );
+assertEquals("Result", 12, test1.triple_summa(2,2) );
 	}
 
 
