@@ -1,7 +1,24 @@
 package test.java.pk1;
 
 import main.java.pk1.ClassForMath;
-import junit.framework.*;
+
+import org.junit.Ignore;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+
+
+/**
+ * Created by IntelliJ IDEA.
+ * User: Elena.Pogorelova
+ * Date: 9/23/11
+ * Time: 12:50 PM
+ * To change this template use File | Settings | File Templates.
+ */
+
+
+
+
 //fff\
 ////yyyyy
 
@@ -16,12 +33,12 @@ public class TestClassForMath extends TestCase {
                Assert.assertEquals("Result", 30, tester.multiply(6, 5));
 
         }
-        public void testMultiply2() {
+@Test @Ignore public void testMultiply2() {
             ClassForMath tester = new ClassForMath();
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 30, tester.multiply2(6, 5));
+               assertEquals("Result", 30, tester.multiply2(6, 5));
        }
 ////t
 
