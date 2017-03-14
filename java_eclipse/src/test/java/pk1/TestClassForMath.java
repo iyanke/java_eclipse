@@ -56,12 +56,12 @@ public class TestClassForMath {
        assertEquals("Result", 7, tester.difference(12, 5));
 
 }
-@Test @Ignore public void testDifference2() {
+public void testDifference2() {
 //sdfsfdfsdfdfsdf
 	//sdfsdfsdfsdfsdf
 	//dfkdkfjskfjsldkfjslkdjflskjflksdjfsf
     ClassForMath tester = new ClassForMath();
-       assertEquals("Result", 7, tester.difference(12, 5));
+       assertEquals("Result", 8, tester.difference(12, 5));
 
 }
 @Test @Ignore public void testDifference1() {
