@@ -47,7 +47,7 @@ public class TestClassForMath {
     ClassForMath tester = new ClassForMath();
     System.out.println("3");
     
-       assertEquals("Result", 17, tester.summa(12, 5));
+       assertEquals("Result", 18, tester.summa(12, 5));
 //dddddd
 }
 @Test @Ignore public void testDifference() {
