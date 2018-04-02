@@ -1,6 +1,2 @@
 test3.txt
-qqqq
-qqqqq
-eee
-xcvxcvxcvcxv
-ккккк
+q
