@@ -16,7 +16,7 @@ public class TestClassForMath extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 31, tester.multiply(6, 5));
+               Assert.assertEquals("Result", 30, tester.multiply(6, 5));
 
         }
         public void testMultiply2() {
@@ -24,7 +24,7 @@ public class TestClassForMath extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 31, tester.multiply2(6, 5));
+               Assert.assertEquals("Result", 30, tester.multiply2(6, 5));
        }
 ////t
 
@@ -39,7 +39,7 @@ public void testSumma() {
 public void testDifference() {
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
-       Assert.assertEquals("Result", 8, tester.difference(12, 5));
+       Assert.assertEquals("Result", 7, tester.difference(12, 5));
 
 }
 public void testDifference2() {
@@ -47,17 +47,17 @@ public void testDifference2() {
 	//sdfsdfsdfsdfsdf
 	//dfkdkfjskfjsldkfjslkdjflskjflksdjfsf
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 8, tester.difference(12, 5));
+       Assert.assertEquals("Result", 7, tester.difference(12, 5));
 
 }
 public void testDifference1() {
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 8, tester.difference(12, 5));
+       Assert.assertEquals("Result", 7, tester.difference(12, 5));
 
 }
 public void testDivision() {
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 8, tester.division(8,1));}
+       Assert.assertEquals("Result", 7, tester.division(8,1));}
 
 public void testDoubleSumma() {
 	//dfdfdfsfsdfsfdsfsf
