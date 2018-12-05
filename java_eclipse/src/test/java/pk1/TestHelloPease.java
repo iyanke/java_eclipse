@@ -8,6 +8,6 @@ import junit.framework.*;
 public class  TestHelloPease extends TestCase {
   public void testSimpleMessage() {
      String message = new HelloPease("World222").sayHello();
-     Assert.assertEquals("Test Hello Machine", "Hello, World222", message);
+     Assert.assertEquals("Test Hello Machine", "Hello, World222e", message);
   }
 }
