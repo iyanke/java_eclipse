@@ -22,15 +22,15 @@ import static org.junit.Assert.assertEquals;
 //fff\
 ////yyyyy
 
-public class TestClassForMath4 {
+public class TestClassForMa12345678901234567890th4 {
 
-        public void testMultiply() {
+        public void testMultiply12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890() {
             ClassForMath tester = new ClassForMath();
             System.out.println("1");
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               assertEquals("Result", 30, tester.multiply(6, 5));
+               assertEquals("Result", 31, tester.multiply(6, 5));
 
         }
 @Test @Ignore public void testMultiply2() {
