@@ -50,7 +50,7 @@ public void testDifference2() {
        Assert.assertEquals("Result", 7, tester.difference(12, 5));
 
 }
-public void testDifference1() {
+public void testDiffer1234567890123456789012345678901234567890v12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890ence1() {
     ClassForMath tester = new ClassForMath();
        Assert.assertEquals("Result", 7, tester.difference(12, 5));
 
