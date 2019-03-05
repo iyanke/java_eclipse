@@ -1,4 +1,4 @@
-package test.java.pk1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
+package test.java.pk1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy;
 
 import main.java.pk1.ClassForMath;
 import junit.framework.*;
@@ -36,7 +36,7 @@ public void testSumma() {
        Assert.assertEquals("Result", 18, tester.summa(12, 5));
 //dddddd
 }
-public void testDifference() {
+public void testDifferencttjrtjrtjrtjjjjjjjjjjjjjjjjjjjjjjjjjjjjjtkrtjkrtyjkjyrtklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklrtltjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjrtkrtkjkrtylkjrkyjrkyjrktyjkrjykrykrlrtye() {
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
        Assert.assertEquals("Result", 8, tester.difference(12, 5));
