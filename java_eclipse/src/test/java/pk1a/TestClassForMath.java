@@ -1,4 +1,4 @@
-package test.java.pk1a;
+package test.java.pk1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
 
 import main.java.pk1.ClassForMath;
 import junit.framework.*;
