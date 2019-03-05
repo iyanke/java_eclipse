@@ -24,7 +24,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestClassForMath {
 
-        public void testMultiply() {
+        public void testMultiplythrttrtutrurturtutrutrrrrrrrreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeewrwerewrwerewrwerwerewrewrwerewrwerqweewewewewewwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww() {
             ClassForMath tester = new ClassForMath();
             System.out.println("1");
             System.out.print("2");
