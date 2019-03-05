@@ -81,7 +81,7 @@ public void testDifference1() {
        //zzxzxzxzxzxzxzxzxzxzx
        
 }
-@Test @Ignore public void testTripleSumma()
+public void testTriple1234567890123456789012345678901234567890vvv1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890Summa()
 {ClassForMath test1= new ClassForMath();
 assertEquals("Result", 12, test1.triple_summa(2,2) );
 	}
