@@ -39,7 +39,7 @@ public void testSumma() {
 public void testDifferencttjrtjrtjrtjjjjjjjjjjjjjjjjjjjjjjjjjjjjjtkrtjkrtyjkjyrtklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklrtltjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjrtkrtkjkrtylkjrkyjrkyjrktyjkrjykrykrlrtye() {
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
-       Assert.assertEquals("Result", 8, tester.difference(12, 5));
+       Assert.assertEquals("Result", 7, tester.difference(12, 5));
 
 }
 public void testDifference2() {
@@ -52,7 +52,7 @@ public void testDifference2() {
 }
 public void testDiffer1234567890123456789012345678901234567890v12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890ence1() {
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 7, tester.difference(12, 5));
+       Assert.assertEquals("Result", 8, tester.difference(12, 5));
 
 }
 public void testDivision() {
