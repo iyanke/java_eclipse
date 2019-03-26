@@ -39,7 +39,7 @@ public void testSumma() {
 public void testDifferencttjrtjrtjrtjjjjjjjjjjjjjjjjjjjjjjjjjjjjjtkrtjkrtyjkjyrtklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklrtltjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjrtkrtkjkrtylkjrkyjrkyjrktyjkrjykrykrlrtye() {
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
-       Assert.assertEquals("Result", 7, tester.difference(12, 5));
+       Assert.assertEquals("Result", 9, tester.difference(12, 5));
 
 }
 public void testDifference2() {
