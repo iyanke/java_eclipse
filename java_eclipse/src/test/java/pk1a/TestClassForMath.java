@@ -24,7 +24,7 @@ public class TestClassForMath extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 31, tester.multiply2(6, 5));
+               Assert.assertEquals("Result", 30, tester.multiply2(6, 5));
        }
 ////t
 
@@ -33,7 +33,7 @@ public void testSumma() {
     ClassForMath tester = new ClassForMath();
     System.out.println("3");
     
-       Assert.assertEquals("Result", 18, tester.summa(12, 5));
+       Assert.assertEquals("Result", 17, tester.summa(12, 5));
 //dddddd
 }
 public void testDifferencttjrtjrtjrtjjjjjjjjjjjjjjjjjjjjjjjjjjjjjtkrtjkrtyjkjyrtklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklrtltjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjrtkrtkjkrtylkjrkyjrkyjrktyjkrjykrykrlrtye() {
