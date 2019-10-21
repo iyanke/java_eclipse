@@ -27,7 +27,8 @@ public class ClassForMath {
 }
     public int division4 (int x, int y) {
         return (x / y); 
-        System.out.println("Tesä, ö or ü");
+        System.out.println("Bye");
+        System.out.println("Tesä,öorü");
         ///dfsdfsdffs
 }
    
