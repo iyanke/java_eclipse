@@ -26,9 +26,9 @@ public class ClassForMath {
         ///dfsdfsdffs
 }
     public int division4 (int x, int y) {
-        return (x / y); 
         System.out.println("Bye");
         System.out.println("Tesä,öorü");
+         return (x / y); 
         ///dfsdfsdffs
 }
    
