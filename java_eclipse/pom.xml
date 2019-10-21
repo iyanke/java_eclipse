@@ -7,7 +7,11 @@
     <groupId>java_eclipse</groupId>
     <artifactId>java_eclipse</artifactId>
     <version>1.0</version>
-
+<properties>
+        <project.java.version>1.8</project.java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
