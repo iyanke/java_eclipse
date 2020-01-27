@@ -53,7 +53,7 @@ public class TestClassForMath {
 @Test @Ignore public void testDifference() {
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
-       assertEquals("Result", 7, tester.difference(12, 5));
+       assertEquals("Result", 8, tester.difference(12, 5));
 
 }
 public void testDifference2() {
