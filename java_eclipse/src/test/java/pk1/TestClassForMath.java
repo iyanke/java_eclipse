@@ -66,7 +66,7 @@ public void testDifference2() {
 }
 @Test @Ignore public void testDifference1() {
     ClassForMath tester = new ClassForMath();
-       assertEquals("Result", 7, tester.difference(12, 5));
+       assertEquals("Result", 8, tester.difference(12, 5));
 
 }
 @Test @Ignore public void testDivision() {
