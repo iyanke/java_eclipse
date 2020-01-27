@@ -71,13 +71,13 @@ public void testDifference2() {
 }
 @Test @Ignore public void testDivision() {
     ClassForMath tester = new ClassForMath();
-       assertEquals("Result", 8, tester.division(8,1));}
+       assertEquals("Result", 7, tester.division(8,1));}
 
 @Test @Ignore public void testDoubleSumma() {
 	//dfdfdfsfsdfsfdsfsf
 	//dfsfdfsdfdfsdfsff
     ClassForMath tester = new ClassForMath();
-       assertEquals("Result", 34, tester.double_summa(12, 5));
+       assertEquals("Result", 35, tester.double_summa(12, 5));
        //zzxzxzxzxzxzxzxzxzxzx
        
 }
