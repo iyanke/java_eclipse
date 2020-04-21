@@ -8,7 +8,7 @@ import junit.framework.*;
 
 
 
-public class TestClassForMath3 extends TestCase {
+public class TestClassForMath3a extends TestCase {
 
         public void testMultiply() {
             ClassForMath tester = new ClassForMath();
