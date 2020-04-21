@@ -1,4 +1,4 @@
-package test.java.pk1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy;
+package test.java.pk1;
 
 import main.java.pk1.ClassForMath;
 import junit.framework.*;
@@ -24,7 +24,7 @@ public class TestClassForMath extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 30, tester.multiply2(6, 5));
+               Assert.assertEquals("Result", 31, tester.multiply2(6, 5));
        }
 ////t
 
@@ -36,7 +36,7 @@ public void testSumma() {
        Assert.assertEquals("Result", 17, tester.summa(12, 5));
 //dddddd
 }
-public void testDifferencttjrtjrtjrtjjjjjjjjjjjjjjjjjjjjjjjjjjjjjtkrtjkrtyjkjyrtklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklklrtltjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjrtkrtkjkrtylkjrkyjrkyjrktyjkrjykrykrlrtye() {
+public void testDifference() {
     ClassForMath tester = new ClassForMath();
     System.out.println("4");
        Assert.assertEquals("Result", 9, tester.difference(12, 5));
@@ -47,23 +47,23 @@ public void testDifference2() {
 	//sdfsdfsdfsdfsdf
 	//dfkdkfjskfjsldkfjslkdjflskjflksdjfsf
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 7, tester.difference(12, 5));
+       Assert.assertEquals("Result", 8, tester.difference(12, 5));
 
 }
 public void testDiffer1234567890123456789012345678901234567890v12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890ence1() {
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 7, tester.difference(12, 5));
+       Assert.assertEquals("Result", 8, tester.difference(12, 5));
 
 }
 public void testDivision() {
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 8, tester.division(8,1));}
+       Assert.assertEquals("Result", 7, tester.division(8,1));}
 
 public void testDoubleSumma() {
 	//dfdfdfsfsdfsfdsfsf
 	//dfsfdfsdfdfsdfsff
     ClassForMath tester = new ClassForMath();
-       Assert.assertEquals("Result", 34, tester.double_summa(12, 5));
+       Assert.assertEquals("Result", 35, tester.double_summa(12, 5));
        //zzxzxzxzxzxzxzxzxzxzx
        
 }
