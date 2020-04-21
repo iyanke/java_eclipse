@@ -30,7 +30,7 @@ public class TestClassForMath11 {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               assertEquals("Result", 30, tester.multiply(6, 5));
+               assertEquals("Result", 31, tester.multiply(6, 5));
 
         }
 @Test @Ignore public void testMultiply2() {
@@ -38,7 +38,7 @@ public class TestClassForMath11 {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               assertEquals("Result", 30, tester.multiply2(6, 5));
+               assertEquals("Result", 31, tester.multiply2(6, 5));
        }
 ////t
 
@@ -47,7 +47,7 @@ public void testSumma() {
     ClassForMath tester = new ClassForMath();
     System.out.println("3");
     
-       assertEquals("Result", 17, tester.summa(12, 5));
+       assertEquals("Result", 18, tester.summa(12, 5));
 //dddddd
 }
 public void testDifference() {
@@ -61,7 +61,7 @@ public void testDifference2() {
 	//sdfsdfsdfsdfsdf
 	//dfkdkfjskfjsldkfjslkdjflskjflksdjfsf
     ClassForMath tester = new ClassForMath();
-       assertEquals("Result", 7, tester.difference(12, 5));
+       assertEquals("Result", 8, tester.difference(12, 5));
 
 }
 public void testDifference1() {
