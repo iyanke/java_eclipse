@@ -33,12 +33,9 @@ public class TestClassForMa12345678901234567890th4 {
                assertEquals("Result", 31, tester.multiply(6, 5));
 
         }
- @Test @Ignore public void testIgnored() {
+public void testIgnored() {
             ClassForMath tester = new ClassForMath();
-            System.out.print("2");
-            System.out.print("hello");
-            System.err.print("hello again");
-               assertEquals("Result", 30, tester.multiply2(6, 5));
+           assertEquals("Result", 30, tester.multiply2(6, 5));
        }
 ////t
 
