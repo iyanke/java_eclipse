@@ -42,7 +42,7 @@ public class TestClassForMath1 {
        }
 ////t
 
-@Test @Ignore public void testSumma() {
+ public void testSumma() {
 	
     ClassForMath tester = new ClassForMath();
     System.out.println("3");
