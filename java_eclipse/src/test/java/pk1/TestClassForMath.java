@@ -52,7 +52,7 @@ public class TestClassForMath {
 //dddddd
 }
 	
-	@Test @Ignore public void IgnoS() {
+	@Test public void IgnoS() {
 	
     ClassForMath tester = new ClassForMath();
     System.out.println("3");
