@@ -1,2 +1,2 @@
-rrrrwewewetttttrrrr5ttttttttttttrrrrrrrrrrwewewrrrrNET STOP  TCBuildAgent 
+NET STOP  TCBuildAgent 
 
