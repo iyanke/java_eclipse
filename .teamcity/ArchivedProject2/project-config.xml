@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="e9366731-fbea-4891-bc02-358226a2c9fd" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
+  <name>Archived project2</name>
+  <parameters />
+  <project-extensions>
+    <extension id="PROJECT_EXT_106" type="IssueTracker">
+      <parameters>
+        <param name="authType" value="accesstoken" />
+        <param name="name" value="iyanke/bigdata" />
+        <param name="pattern" value="#(\d+)" />
+        <param name="repository" value="https://github.com/iyanke/bigdata" />
+        <param name="secure:accessToken" value="credentialsJSON:70426250-a4bb-4d24-938c-a9979af58025" />
+        <param name="secure:password" value="" />
+        <param name="type" value="GithubIssues" />
+        <param name="username" value="" />
+      </parameters>
+    </extension>
+    <extension id="PROJECT_EXT_48" type="versionedSettings">
+      <parameters>
+        <param name="buildSettings" value="ALWAYS_USE_CURRENT" />
+        <param name="credentialsStorageType" value="credentialsJSON" />
+        <param name="enabled" value="true" />
+        <param name="rootId" value="ArchivedProject2_HttpsGithubComInnayanPluginxml" />
+        <param name="showChanges" value="false" />
+      </parameters>
+    </extension>
+  </project-extensions>
+  <cleanup />
+</project>
+

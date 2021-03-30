@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="0efdf0ca-25c7-49f9-9699-8ed79bc19581" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
+  <name>templateNew</name>
+  <settings>
+    <parameters />
+    <build-runners>
+      <runner id="RUNNER_291" name="" type="ANew_Anewconfig">
+        <parameters>
+          <param name="teamcity.buildQueue.allowMerging" value="false" />
+          <param name="teamcity.step.mode" value="default" />
+        </parameters>
+      </runner>
+    </build-runners>
+    <vcs-settings>
+      <vcs-entry-ref root-id="ArchivedProject2_ArchivedSubproj221_ArchivedSubsub22xAaaaa_ANew1_Anew" />
+    </vcs-settings>
+    <requirements />
+    <build-triggers />
+    <cleanup />
+  </settings>
+</template>
+
