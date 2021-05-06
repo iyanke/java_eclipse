@@ -13,7 +13,7 @@ public class TestClassForMath3a extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 30, tester.multiply(6, 5));
+               Assert.assertEquals("Result", 31, tester.multiply(6, 5));
 
         }
         public void testMultiply2() {
@@ -21,7 +21,7 @@ public class TestClassForMath3a extends TestCase {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               Assert.assertEquals("Result", 30, tester.multiply2(6, 5));
+               Assert.assertEquals("Result", 31, tester.multiply2(6, 5));
        }
 ////t
 
