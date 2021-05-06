@@ -56,8 +56,7 @@ public void testDivision() {
        Assert.assertEquals("Result", 7, tester.division(8,1));}
 
 public void testDoubleSumma() {
-	//dfdfdfsfsdfsfdsfsf
-	//dfsfdfsdfdfsdfsff
+	
     ClassForMath tester = new ClassForMath();
        Assert.assertEquals("Result", 35, tester.double_summa(12, 5));
        //zzxzxzxzxzxzxzxzxzxzx
