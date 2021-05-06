@@ -2,7 +2,7 @@ package test.java.pk1;
 
 import main.java.pk1.ClassForMath;
 import junit.framework.*;
-
+//uuu
 
 
 
