@@ -8,13 +8,6 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 
-/**
- * Created by IntelliJ IDEA.
- * User: Elena.Pogorelova
- * Date: 9/23/11
- * Time: 12:50 PM
- * To change this template use File | Settings | File Templates.
- */
 
 
 
@@ -30,7 +23,7 @@ public class TestClassForMath {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               assertEquals("Result", 30, tester.multiply(6, 5));
+               assertEquals("Result", 32, tester.multiply(6, 5));
 
         }
 	
@@ -39,7 +32,7 @@ public class TestClassForMath {
             System.out.print("2");
             System.out.print("hello");
             System.err.print("hello again");
-               assertEquals("Result", 30, tester.multiply2(6, 5));
+               assertEquals("Result", 33, tester.multiply2(6, 5));
        }
 ////t
 
