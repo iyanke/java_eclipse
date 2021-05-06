@@ -2,7 +2,7 @@ package test.java.pk1;
 
 import main.java.pk1.ClassForMath;
 import junit.framework.*;
-//uuu
+
 
 
 
@@ -24,7 +24,7 @@ public class TestClassForMath3a extends TestCase {
             System.err.print("hello again");
                Assert.assertEquals("Result", 31, tester.multiply2(6, 5));
        }
-////t
+
 
 public void testSumma() {
 	
@@ -32,7 +32,7 @@ public void testSumma() {
     System.out.println("3");
     
        Assert.assertEquals("Result", 17, tester.summa(12, 5));
-//dddddd
+
 }
 public void testDifference() {
     ClassForMath tester = new ClassForMath();
